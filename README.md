@@ -55,7 +55,7 @@ sudo apt-get install D-ITG
 
 ### SDN Applications Usage
 
-In this project, we created two POX applications, and the source codes are stored in the  [SDN9](https://github.com/nsaif86/Q_PoPS/blob/main/DCN9.py). The first component, DCN9, is responsible for consolidating the flows in the one-link as much as possible. The second is the Monitoring Model. The method is clearly described in our paper.
+In this project, we created two POX applications, and the source codes are stored in the  [Q-PoPS](https://github.com/nsaif86/Q_PoPS.git). The first component, DCN9, is responsible for consolidating the flows in the one-link as much as possible. The second is the Monitoring Model. The method is clearly described in our paper.
 
 
 
@@ -70,7 +70,7 @@ In the second terminal
 ```
 sudo python3  fat_tree.py
 ```
-See this [https://encyclopedia.pub/video/video_detail/1334](video), which includes a practical example of running the code at the end.
+See this [video](https://encyclopedia.pub/video/video_detail/1334), which includes a practical example of running the code at the end.
 
 Please, if you find the code useful, cite our work.
 
