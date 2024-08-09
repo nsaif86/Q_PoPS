@@ -70,7 +70,7 @@ In the second terminal
 ```
 sudo python3  fat_tree.py
 ```
-Then, you can generate traffic (voice, DDoS, etc.) using D-ITG inside Mininet and observe the results in the second terminal.
+See this [https://encyclopedia.pub/video/video_detail/1334](video), which includes a practical example of running the code at the end.
 
 Please, if you find the code useful, cite our work.
 
